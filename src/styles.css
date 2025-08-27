@@ -61,9 +61,3 @@
   align-items: center;
   border-radius: 3px;
 }
-
-@media screen and (max-width: 769px) {
-  #quote-box {
-    width: 80%;
-  }
-}
